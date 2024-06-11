@@ -39,7 +39,7 @@ The app uses the OpenWeatherMap API to fetch weather data. To use this app, you 
 Replace the placeholder API key in app.js with your own API key:
    ```bash
     const key = 'your_openweathermap_api_key';
-    ```
+   ```
 
 ## Usage
 1. **Geolocation Weather**: Allow the browser to access your location. The app will automatically fetch and display the weather information for your current location.
