@@ -57,5 +57,7 @@ Replace the placeholder API key in app.js with your own API key:
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather API.
 - [Unsplash](https://unsplash.com/) for the background image.
 
+## You can contribute to this repo.
+
 ## Contact
 For any inquiries or feedback, feel free to contact me at [vaibhavambhore46@gmail.com](mailto:vaibhavambhore46@gmail.com).
